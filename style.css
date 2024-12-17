@@ -1,0 +1,71 @@
+body{
+    background-color: #000000;
+    
+}
+.benefit{
+    width: 145px;
+    height: 40px;
+    background-color: #1A1A1A;
+    border-radius: 100px;
+    padding: 5px;
+    margin: 50px auto 20px;
+}
+.benefit p{
+    color: #DCDCDC;
+}
+.head_font{
+    font-family: "Orbitron", sans-serif;
+}
+.discover_tittle{
+    color: #EB0000;
+    font-size: 50px;
+    font-weight: 650;
+}
+.text_font{
+    font-family: "Space Grotesk", sans-serif;
+}
+.discover_subtittle{
+    color: #DCDCDC;
+    font-size: 18px;
+    font-weight: 400;
+}
+.effort_logging{
+    background-color: #09090A;
+    border: 1px solid;
+    border-radius: 20px;
+    padding: 20px;
+}
+.logging_img{
+    width: 58px;
+    height: 58px;
+    background-color: #1A1A1A;
+    border-radius: 14px;
+    padding: 14px;
+}
+.workout_log{
+    color: #EB0000;
+    margin-top: 28px;
+    margin-bottom: 20px;
+}
+.review_phn{
+    margin-top: -290px;
+}
+.extra_space{
+    margin-top: -290px;
+}
+.plans{
+    margin-left: 67%;
+    margin-bottom: 35px;
+}
+.hover_card {
+    border: none; 
+    box-shadow: none;
+    transition: all 0.3s ease-in-out; 
+    opacity: 0.8; 
+}
+
+.hover_card:hover {
+    opacity: 1;
+    box-shadow: 0 0 0px #EB0000, 0 0 0px #EB0000, 0 0 2px #EB0000, 0 0 10px #EB0000;
+}
+
